@@ -89,7 +89,7 @@ public class LogicaClasificacion {
     /**
      * Clasifica una lista de enteros separando pares e impares.
      * Usa LinkedList para mantener el orden de inserción.
-     *
+     *A
      * @return Lista con pares primero, luego impares.
      *
      *         Ejemplo:
